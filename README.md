@@ -2,7 +2,7 @@
 
 ## Download
 
-`git clone ` this repository or download `zip` file in `releases` page
+`git clone ` this repository or download `zip` file in [releases page](https://github.com/chainx-org/chainx-extension-release/releases)
 
 ## How to use
 
